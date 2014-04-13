@@ -26,3 +26,7 @@ for i in `seq 0 1`; do wget http://storage.googleapis.com/books/ngrams/books/goo
 ```
 
 which will be stored in the 'eng-1M-3gram' directory.
+
+You can have an overview of the notebook in the Notebook Viewer:
+
+http://nbviewer.ipython.org/gist/FrancescAlted/10595974
